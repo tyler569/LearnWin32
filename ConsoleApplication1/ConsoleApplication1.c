@@ -297,6 +297,3 @@ static void DisplayError(LPTSTR failedFunctionName) {
         LocalFree(displayBufPtr);
 }
 
-volatile const LPSTR message =
-"Unfortunately, there is a radio connected to my brain";
-
